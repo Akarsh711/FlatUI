@@ -12,8 +12,50 @@
         Background="Transparent"
         AllowsTransparency="True"
         >
-    <Grid>
-        
-    </Grid>
-   
+    <Border Background="#272537"
+            CornerRadius="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition/>
+
+            </Grid.RowDefinitions>
+            <TextBlock
+                Text="Elysian"
+                   VerticalAlignment="Center"
+                   Foreground="White"
+                   FontSize="22"
+                   Margin="29,0,121,0"
+                />
+            <StackPanel Grid.Row="1">
+                <RadioButton Content="Home"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Discovery"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Featured"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+            </StackPanel>
+                <TextBox Width="250"
+                         Height="40"
+                         VerticalContentAlignment="Center"
+                         HorizontalAlignment="Left"
+                         Margin="5"
+                         Grid.Column="1"></TextBox>
+        </Grid>
+    </Border>
+
 </Window>
