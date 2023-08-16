@@ -1,0 +1,16 @@
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.csproj.AssemblyReference.cache
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MainWindow.g.cs
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\App.g.cs
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI_MarkupCompile.cache
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI_MarkupCompile.lref
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\bin\Debug\FlatUI.exe.config
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\bin\Debug\FlatUI.exe
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\bin\Debug\FlatUI.pdb
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MainWindow.baml
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.g.resources
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.Properties.Resources.resources
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.csproj.GenerateResource.cache
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.csproj.CoreCompileInputs.cache
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.exe
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.pdb
