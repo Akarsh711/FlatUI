@@ -16,3 +16,4 @@ C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.exe
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.pdb
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\Theme\MenuButtonTheme.baml
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\App.baml
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\Theme\TextboxTheme.baml
