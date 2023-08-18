@@ -17,3 +17,6 @@ C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI.pdb
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\Theme\MenuButtonTheme.baml
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\App.baml
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI_Content.g.cs
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MVVM\View\HomeView.baml

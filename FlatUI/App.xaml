@@ -3,13 +3,19 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:FlatUI"
              StartupUri="MainWindow.xaml">
+             <!--xmlns:viewModel="clr-namespace:ModernDesign.MVVM.ViewModel"
+             xmlns:view="clr-namespace:ModernDesign.MVVM.View"-->
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
                 <ResourceDictionary Source="Theme/TextboxTheme.xaml"/>
-
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
+
+                <!--<DataTemplate DataType="{X:Type viewModel:HomeViewModel}">
+                    <view:HomeView/>
+                </DataTemplate>-->
+
     </Application.Resources>
 </Application>
