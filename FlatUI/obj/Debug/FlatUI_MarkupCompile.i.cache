@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\App.xaml
-4-820853319
+5-1112394665
 1-1392095509
-111791690818
+13-655919466
 13-1310406943
-MainWindow.xaml;MVVM\View\HomeView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextboxTheme.xaml;
+MainWindow.xaml;MVVM\View\DiscoveryView.xaml;MVVM\View\HomeView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextboxTheme.xaml;
 
 True
 

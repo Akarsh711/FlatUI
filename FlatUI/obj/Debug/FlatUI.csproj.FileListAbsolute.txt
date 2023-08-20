@@ -20,3 +20,6 @@ C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\Theme\TextboxTheme.baml
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MVVM\View\HomeView.g.cs
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\FlatUI_Content.g.cs
 C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MVVM\View\DiscoveryView.g.cs
+C:\Users\paliw\OneDrive\Desktop\FlatUI\FlatUI\obj\Debug\MVVM\View\DiscoveryView.baml
